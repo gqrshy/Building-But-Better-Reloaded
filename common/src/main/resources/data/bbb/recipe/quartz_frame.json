@@ -1,0 +1,22 @@
+{
+  "category": "building",
+  "group": "bbb/stone_frames",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "/ /",
+    "___"
+  ],
+  "key": {
+    "_": {
+      "item": "minecraft:quartz_slab"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "bbb:quartz_frame",
+    "count": 12
+  }
+}

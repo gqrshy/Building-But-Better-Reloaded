@@ -1,0 +1,22 @@
+{
+  "category": "building",
+  "group": "bbb/balustrades",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "/ /",
+    "/ /"
+  ],
+  "key": {
+    "_": {
+      "item": "minecraft:birch_slab"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "bbb:birch_balustrade",
+    "count": 6
+  }
+}

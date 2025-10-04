@@ -1,0 +1,22 @@
+{
+  "category": "building",
+  "group": "bbb/lattices",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "/#/",
+    "#/#",
+    "/#/"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:acacia_planks"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "bbb:acacia_lattice",
+    "count": 4
+  }
+}

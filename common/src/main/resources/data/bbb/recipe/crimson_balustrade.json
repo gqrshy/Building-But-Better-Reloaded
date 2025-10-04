@@ -1,0 +1,22 @@
+{
+  "category": "building",
+  "group": "bbb/balustrades",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "/ /",
+    "/ /"
+  ],
+  "key": {
+    "_": {
+      "item": "minecraft:crimson_slab"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "bbb:crimson_balustrade",
+    "count": 6
+  }
+}

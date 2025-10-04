@@ -1,0 +1,22 @@
+{
+  "category": "building",
+  "group": "bbb/lattices",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "/#/",
+    "#/#",
+    "/#/"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:crimson_planks"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "bbb:crimson_lattice",
+    "count": 4
+  }
+}

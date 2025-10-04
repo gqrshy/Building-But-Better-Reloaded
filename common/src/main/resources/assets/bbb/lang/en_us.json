@@ -1,8 +1,8 @@
 {
-  "itemGroup.bbb.tab": "Building But Better",
-  "item.bbb.bbb": "Building But Better",
+  "itemGroup.bbb.tab": "Building But Better: Reloaded",
+  "item.bbb.bbb": "Building But Better: Reloaded",
 
-  "bbb.midnightconfig.title": "Building But Better Config",
+  "bbb.midnightconfig.title": "Building But Better: Reloaded Config",
   "bbb.midnightconfig.alwaysShowFrameHitboxes": "Always show Frame hitboxes",
   "bbb.midnightconfig.alwaysShowFrameHitboxes.tooltip": "§8§o[?]§7§o If enabled, larger hitboxes for Frames will always be shown, rather than only when crouching.",
   "bbb.midnightconfig.disableFrameCrouchHitbox": "Disable crouch hitbox for Frames",

@@ -1,0 +1,22 @@
+{
+  "category": "building",
+  "group": "bbb/balustrades",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "/ /",
+    "/ /"
+  ],
+  "key": {
+    "_": {
+      "item": "minecraft:dark_oak_slab"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "bbb:dark_oak_balustrade",
+    "count": 6
+  }
+}
