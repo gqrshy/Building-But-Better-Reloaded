@@ -6,7 +6,7 @@ license = "https://github.com/starfish-studios/Building-But-Better/blob/main/LIC
 [[mods]]
 modId = "bbb"
 version = "1.0.0"
-displayName = "Building But Better"
+displayName = "Building But Better: Reloaded"
 authors = "Starfish Studios"
 description = '''
 A mod focused on adding new building blocks with customizability and interactions!
